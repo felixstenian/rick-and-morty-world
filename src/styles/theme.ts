@@ -3,15 +3,18 @@ const theme = {
     primary: '#BFDE42',
     secondary: '#42B4CA',
     yellon: '#F5EB46',
-    gree: {
-      200: '#8DC76@styles/0',
+    green: {
+      200: '#8DC760',
       400: '#2D9245'
     },
     white: '#FAFAFA',
     black: '#030517',
     lightGray: '#EAEAEA',
     gray: '#8F8F8F',
-    darkGray: '#2E2F42'
+    darkGray: '#2E2F42',
+    gradients: {
+      button: 'linear-gradient(180deg, #BFDE42 0%, #F5EB46 100%);'
+    }
   },
   grid: {
     container: '130rem',
