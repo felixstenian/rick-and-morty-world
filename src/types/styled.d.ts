@@ -1,4 +1,4 @@
-import { theme } from '@/styles'
+import { theme } from 'styles'
 // import { theme } from '.'
 
 type Theme = typeof theme
